@@ -24,11 +24,11 @@ body {
 }
 
 h1 {
-  color: #EDC79B;
+  color: #edc79b;
 }
 
 a {
-  color: #EDC79B;
+  color: #edc79b;
   text-decoration: none;
 }
 
@@ -75,7 +75,7 @@ img {
 }
 
 .text-primary {
-  color: #F05365;
+  color: #f05365;
 }
 
 .text-dark {
@@ -198,7 +198,7 @@ img {
   margin-right: 0.5rem;
   transition: opacity 0.2s ease-in;
   outline: none;
-  background-color: #CA6680;
+  background-color: #ca6680;
 }
 
 .btn-link {
@@ -369,7 +369,7 @@ table th {
   border-bottom: solid 1px white;
   opacity: 0.9;
   margin-bottom: 1rem;
-  background-color: #CA6680;
+  background-color: #ca6680;
 }
 
 .navbar ul {
